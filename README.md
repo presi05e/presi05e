@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingeniería de Sistemas e Informática | Backend & Cloud en formación</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+de+Redes;Apasionado+por+la+Nube;Aprendiz+de+Análisis;Entusiasta+de+Innovación+Tecnológica;Fanático+de+la+Automatización+y+Estrategias& center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+de+Redes;Apasionado+por+la+Nube;Aprendiz+de+Análisis;Entusiasta+de+Innovación+Tecnológica;Fanático+de+la+Automatización+y+Estrategias& center=trueywidth=500yheight=50">
 </p>
 
 ---
