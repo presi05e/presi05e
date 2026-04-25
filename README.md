@@ -33,34 +33,33 @@
 ## 📊 Mi progreso en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=presi05e&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=presi05e &theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presi05e&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Actividad reciente (automática)
+## 🔥 Actividad 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
----
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=presi05e&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=presi05e&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USUARIO&theme=tokyonight&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=presi05e&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=presi05e&theme=tokyonight&utcOffset=5" />
 </p>
+
+--- 
 
 ## 🚀 Proyectos Destacados
 
@@ -78,7 +77,7 @@ Ejercicios de resolución de problemas
 ## 📈 Evolución y consistencia
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=presi05e&theme=tokyonight" />
 </p>
 
 ---
@@ -87,7 +86,7 @@ Ejercicios de resolución de problemas
 
 <p align="center">
   <a href="https://linkedin.com/in/TU_LINKEDIN">LinkedIn</a> •
-  <a href="https://instagram.com/TU_INSTAGRAM">Instagram</a>
+  <a href="https://instagram.com/e_presipg">Instagram</a>
 </p>
 
 ---
