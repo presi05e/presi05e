@@ -85,10 +85,16 @@ Ejercicios de resolución de problemas
   
 ## 🌐 Conecta conmigo
 
-<p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN">LinkedIn</a> •
-  <a href="https://instagram.com/e_presipg">Instagram</a>
+<p align="center">  
+<a href="https://linkedin.com/in/TU_LINKEDIN">  
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+</a> 
+  
+<a href="https://instagram.com/e_presipg">  
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
+</a>  
 </p>
+
 
 ---
 
